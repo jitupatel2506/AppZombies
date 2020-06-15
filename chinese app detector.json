@@ -1,0 +1,12 @@
+[
+    {
+    	"ad_type" : false,
+    	"public_key" : "abc",
+	"fb_banner":"2670501013275697_2670502233275575",
+	"fb_interstitial":"2670501013275697_2670501939942271",
+	"fb_native":"2670501013275697_2670501359942329",
+        "fb_med_rect":"2670501013275697_2670502353275563",
+   	"new_app_pkg" : "abc",	
+   	"is_version_closed" : "false"
+  }
+]
