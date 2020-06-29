@@ -4,8 +4,8 @@
     "fb_interstitial" : "696836304427923_696837517761135",
     "fb_native" : "696836304427923_696836914427862",	
     "fb_mid_rect" : "696836304427923_696854817759405",	
-    "ad_type" : "0",
-    "new_pkg" : "com.tikik.hotstarguide",
-    "is_version" : "false"
+    "ad_type" : "1",
+    "new_pkg" : "com",
+    "is_version" : "true"
   }
 ]
