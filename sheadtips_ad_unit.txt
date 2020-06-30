@@ -7,7 +7,7 @@
     "ad_type" : "1",
     "public_key" : "abc",
     "new_pkg" : "com",
-    "is_version" : "true"
+    "is_version" : "false"
   }
 ]
 
