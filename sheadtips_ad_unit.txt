@@ -4,7 +4,7 @@
     "fb_interstitial" : "277025993359455_277026336692754",
     "fb_native" : "277025993359455_277026216692766",	
     "fb_mid_rect" : "277025993359455_277026540026067",	
-    "ad_type" : "1",
+    "ad_type" : "0",
     "public_key" : "abc",
     "new_pkg" : "com",
     "is_version" : "false"
