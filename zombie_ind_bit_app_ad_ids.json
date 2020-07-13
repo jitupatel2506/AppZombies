@@ -7,6 +7,6 @@
         "fb_med_rect":"696836304427923_696854817759405",
    	"new_app_pkg" : "abc",	
 	"new_app_name" : "New App",	
-   	"is_version_closed" : "false"
+   	"is_version_closed" : false
   }
 ]
