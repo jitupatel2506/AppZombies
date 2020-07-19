@@ -7,6 +7,6 @@
     "ad_type" : "0",
     "public_key" : "abc",
     "new_pkg" : "com.jeetoindia.helobit",
-    "is_version" : "true"
+    "is_version" : "false"
   }
 ]
