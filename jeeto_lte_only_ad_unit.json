@@ -7,6 +7,6 @@
     "ad_type" : "0",
     "public_key" : "abc",
     "new_pkg" : "com.jeetoindia.lteonly",
-    "is_version" : "false"
+    "is_version" : "true"
   }
 ]
