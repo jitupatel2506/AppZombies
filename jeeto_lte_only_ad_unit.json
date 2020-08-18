@@ -4,7 +4,7 @@
     "fb_interstitial" : "868012810274875_868013996941423",
     "fb_native" : "868012810274875_868013263608163",	
     "fb_mid_rect" : "868012810274875_868014496941373",	
-    "ad_type" : "1",
+    "ad_type" : "0",
     "public_key" : "abc",
     "new_pkg" : "com.jeetoindia.lteonly",
     "is_version" : "false"
