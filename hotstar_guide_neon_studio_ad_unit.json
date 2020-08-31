@@ -4,7 +4,7 @@
     "fb_interstitial" : "344302996703429_344304330036629",
     "fb_native" : "344302996703429_344303930036669",	
     "fb_mid_rect" : "344302996703429_344304876703241",	
-    "ad_type" : "1",
+    "ad_type" : "0",
     "public_key" : "abc",
     "new_pkg" : "com.neon.hotstarguide",
     "is_version" : "false"
