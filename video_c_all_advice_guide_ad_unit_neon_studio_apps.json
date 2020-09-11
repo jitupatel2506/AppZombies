@@ -4,14 +4,14 @@
     "fb_interstitial" : "823870028420131_823871671753300",
     "fb_native" : "823870028420131_823870605086740",	
     "fb_mid_rect" : "823870028420131_823871961753271",	
-   "admob_pub_id" : "pub-5058918294716764",
-    "admob_app_id" : "ca-app-pub-5058918294716764~5490084579",
-    "admob_banner" : "ca-app-pub-5058918294716764/8792687728",	
-    "admob_interstitial" : "ca-app-pub-5058918294716764/7288034366",
-    "admob_native" : "ca-app-pub-5058918294716764/9531054323",	
-    "video_link" : false,
+   "admob_pub_id" : "pub-5550228870034651",
+    "admob_app_id" : "ca-app-pub-5550228870034651~8223859438",
+    "admob_banner" : "ca-app-pub-5550228870034651/6068469380",	
+    "admob_interstitial" : "ca-app-pub-5550228870034651/2073577576",
+    "admob_native" : "ca-app-pub-5550228870034651/9760495907",	
+    "video_link" : true,
     "ad_type" : "0",
-    "new_pkg" : "com.dating.videocall",
+    "new_pkg" : "com.neon.videocall",
     "is_version" : "false"
   }
 ]
