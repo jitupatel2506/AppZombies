@@ -1,0 +1,17 @@
+[
+    {
+    "fb_banner" : "2792395237647558_2792396040980811",
+    "fb_interstitial" : "2792395237647558_2792395954314153",
+    "fb_native" : "2792395237647558_2792395480980867",
+    "fb_mid_rect" : "2792395237647558_2792396127647469",
+   "admob_pub_id" : "pub-9542798423263264",
+    "admob_app_id" : "ca-app-pub-9542798423263264~9452942944",
+    "admob_banner" : "ca-app-pub-9542798423263264/2312819528",
+    "admob_interstitial" : "ca-app-pub-9542798423263264/8106387477",
+    "admob_native" : "ca-app-pub-9542798423263264/4747411173",
+    "video_link" : false,
+    "ad_type" : "0",
+    "new_pkg" : "com.zinku.videocall",
+    "is_version" : "false"
+  }
+]
