@@ -9,9 +9,9 @@
     "admob_banner" : "ca-app-pub-5550228870034651/6068469380",	
     "admob_interstitial" : "ca-app-pub-5550228870034651/2073577576",
     "admob_native" : "ca-app-pub-5550228870034651/9760495907",	
-    "video_link" : false,
+    "video_link" : true,
      "is_rand" : false,
-     "is_default_vid" : false,
+     "is_default_vid" : true,
     "ad_type" : "0",
     "new_pkg" : "com.neon.videocall",
     "is_version" : "false"
