@@ -12,7 +12,7 @@
     "video_link" : true,
      "is_rand" : false,
      "is_default_vid" : true,
-    "ad_type" : "0",
+    "ad_type" : "1",
     "new_pkg" : "com.neon.videocall",
     "is_version" : "false"
   }
