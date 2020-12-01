@@ -13,7 +13,7 @@
     "is_rand" : false,
     "is_default_vid" : true,
     "ad_type" : "0",
-    "new_pkg" : "com.neon.videocall",
-    "is_version" : "false"
+    "new_pkg" : "com.zas.videocall",
+    "is_version" : "true"
   }
 ]
