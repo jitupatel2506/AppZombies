@@ -10,7 +10,7 @@
     "admob_interstitial" : "ca-app-pub-1475929504519052/6147188600",
     "admob_native" : "ca-app-pub-1475929504519052/7480645095",	
     "video_link" : true,
-    "is_rand" : true,
+    "is_rand" : false,
     "is_default_vid" : false,
     "ad_type" : "0",
     "new_pkg" : "com.zas.videocall",
