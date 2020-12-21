@@ -12,7 +12,7 @@
     "video_link" : true,
     "is_rand" : false,
     "is_default_vid" : false,
-    "ad_type" : "1",
+    "ad_type" : "0",
     "new_pkg" : "com.zas.videocall",
     "is_version" : "false"
   }
