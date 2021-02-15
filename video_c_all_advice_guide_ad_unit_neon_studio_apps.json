@@ -13,7 +13,7 @@
     "is_rand" : false,
     "is_default_vid" : false,
     "ad_type" : "0",
-    "new_pkg" : "com.zas.videocall",
+    "new_pkg" : "com.ndovid.videocall",
     "is_version" : "true"
   }
 ]
